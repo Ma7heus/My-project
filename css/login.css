@@ -20,7 +20,7 @@
     max-height: 420px;
     background-color: rgb(27, 123, 139);
     color: black;
-    font-size: x-large;
+    font-size: large;
     text-align: center;
     padding: 10px;
     border-style: groove;
@@ -37,12 +37,16 @@
     border-radius: 5px;
     border-style: groove;
     border-color: black;
+    font-size: x-large;
 }
  
 .emailLogin {
     width: 100%;
-      
-     
+
+}
+
+.textEmail {
+    font-size: x-large;
 }
 
 .labelEmail{
@@ -54,13 +58,18 @@
     padding-top: 10px;
 }
 
+.textSenha {
+    font-size: x-large;
+}
+
 .labelSenha{
     width: 100%;
     border-radius: 5px;    
 }
 
 .botaoLogin {
-    style;
+    list-style-type: circle;
+    animation-direction: alternate-reverse;
     width: 100%;
     padding-top: 20px;
     border-style: hidden;
@@ -76,6 +85,7 @@
 }
 
 .link {
+    font-size: x-large;
     padding: 20px;
     text-align:center;
     color: rgb(0, 0, 0);
@@ -83,4 +93,5 @@
 
 .textLink{
     color: rgb(252, 252, 252);
+    
 }
