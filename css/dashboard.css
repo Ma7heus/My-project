@@ -1,0 +1,20 @@
+.barraSuperior {
+    height: 5%;
+    display: flex;
+    width: 100%;
+    background-color: blue;
+}
+.telaInterior {
+    height: 95%;
+    width: 100%;
+    background-color: green;
+}
+
+.barraEsquerda {    
+    height: 100%;
+    width: 10%;
+    background-color: blueviolet;
+}
+
+
+
